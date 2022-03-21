@@ -1,8 +1,5 @@
 This is a test file
 Hello
 world!
-<<<<<<< HEAD
 i have msade some changes in the main branch.
-=======
 This is the start of a new week, so a new line entry
->>>>>>> a4de3f3 (JayR - added a new line entry)
